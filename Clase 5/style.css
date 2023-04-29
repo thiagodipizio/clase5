@@ -1,0 +1,38 @@
+.dias {
+    font-weight: bold;
+    color: blue;
+    font-size: 50px;
+}
+
+.horarios {
+    font-style: italic;
+    font-size: 25px;
+}
+
+.card-roja {
+    background-color: red;
+}
+
+.header {
+    background-color: red;
+}
+
+.footer {
+    background-color: blue;
+    width: 100%;
+    height: 50px;
+}
+
+.contacto {
+    border-bottom-width: 10px ;
+    border-top: 10px;
+    border-left-width: 10px;
+    border-left-color: black;
+    font-size: large;
+    border-top-width: 10px;
+    border-top-color: blue;
+    border-top-style: dotted;
+    border-style: dotted;
+    border-color: blue;
+    border-width: 10px;
+}
